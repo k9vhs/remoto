@@ -25,7 +25,7 @@ public class Main {
         }
 
         for (int i = 1; i <= popochos; i++) {
-            System.out.println( "El popocho número " + i + " está: Zzz...");
+            System.out.println( "El popocho número " + i + " está: Zzz...Zzzzzzzzzz");
         }
     }
 }
