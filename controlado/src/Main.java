@@ -17,9 +17,9 @@ public class Main {
         } else if (popochos==1) {
             System.out.println("Ese popocho está muy mimado.");
         } else if (popochos==2 || popochos==3) {
-            System.out.println("La familia de popochos está bien equilibrada.");
+            System.out.println("La familia de popochos está bien equilibrada!.");
         } else if (popochos>3) {
-            System.out.println("¡Son demasiados popochos! No quedará espacio para ti en la cama...");
+            System.out.println("¡Son demasiaaaaaaaados popochos! No quedará espacio para ti en la cama...");
         } else{
             System.out.println("Número de popochos no válido");
         }
